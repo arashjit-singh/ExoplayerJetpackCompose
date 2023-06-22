@@ -10,7 +10,8 @@ Application to select videos from Device and Play using Exoplayer
   3. Hilt for dependency injection
   4. Google Exoplayer for playing videos
 
- # Application Screenshots
+ # Application Demo
+![Output sample](https://github.com/arashjit-singh/ExoplayerJetpackCompose/blob/main/screenshots/player.gif)
  <img src="https://github.com/arashjit-singh/ExoplayerJetpackCompose/blob/main/screenshots/Screenshot_2023-06-22-14-41-41-14_fafbd55ca0112c0ce955e4a32c0150e8.jpg" width=50% height=50%>
 <img src="https://github.com/arashjit-singh/ExoplayerJetpackCompose/blob/main/screenshots/Screenshot_2023-06-22-14-42-05-42_fafbd55ca0112c0ce955e4a32c0150e8.jpg" width=50% height=50%>
 
